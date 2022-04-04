@@ -8,7 +8,7 @@
 ##
 
 # Python Exercises w/ Solutions
-## 1. Week 1
+## 1. Week-1
 ##
 ##
 ##
