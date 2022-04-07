@@ -1,5 +1,3 @@
-#Question_3
-
 int_1 = int(input())
 int_2 = int(input())
 int_3 = int(input())
