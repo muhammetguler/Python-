@@ -1,5 +1,3 @@
-#Question_2
-
 #a
 
 x = 2
