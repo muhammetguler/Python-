@@ -1,5 +1,3 @@
-#Question_6
-
 years = int(input())
 yearsToSecond = years * 365 * 24 * 3600
 months = int(input())

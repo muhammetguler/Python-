@@ -1,5 +1,3 @@
-#Question1
-
 # a)
 
 x = 2
@@ -13,6 +11,7 @@ y = input()
 print(x,y)
 
 # c)
+
 a = int(input())
 b = int(input())
 print(a+b)

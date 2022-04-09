@@ -1,5 +1,3 @@
-#Question_4
-
 A = int(input())
 i = int(input())
 n = int(input())
